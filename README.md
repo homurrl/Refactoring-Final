@@ -21,5 +21,6 @@ The navigation bar hyperlinks have been fixed to locate to the corresponding sec
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
+**Website Appearance at Launch**
 
-
+<img width="1614" alt="Horiseon Deployment Image" src="https://user-images.githubusercontent.com/117972653/208092650-9141043a-3591-41d8-b27c-c3ee76edeae5.png">
