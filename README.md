@@ -21,15 +21,6 @@ The navigation bar hyperlinks have been fixed to locate to the corresponding sec
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
 
-
-
-**Tasks Completed** 
-
-* Improved SEO through file restructure
-* Comments added for improved codebase navigation
-* Bug fixes to hyperlinks and website rendering
-
-**Deployed Website Image** 
-
+**Website Appearance at Launch**
 
 
